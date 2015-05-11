@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "54f2987d0d15a0b656178a3a" }, "name" : "PHILIPPINES", "code" : "PH", "capital" : "MANILA", "population" : 98390000 }
+{ "_id" : { "$oid" : "54f7d8c20d15a0b656178a3b" }, "name" : "UNITED STATES OF AMERICA", "code" : "US", "capital" : "WASHINGTON D.C.", "population" : 318900000 }
+{ "_id" : { "$oid" : "54f8038dd4c63fd44991843e" }, "_class" : "com.gapperdan.hswm.domain.Country", "name" : "SINGAPORE", "code" : "SG", "capital" : "SINGAPORE", "population" : { "$numberLong" : "5399000" } }
